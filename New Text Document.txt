@@ -1,6 +1,0 @@
-* Add export btn with specific type name in get parameter
-
-
-* Add CSS
-
-*Set query against your type parameter in Export data file
